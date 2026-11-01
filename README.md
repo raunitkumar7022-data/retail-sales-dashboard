@@ -2,7 +2,7 @@
 
 An end-to-end data analytics project on the Superstore sales dataset. Raw data was cleaned in Python, queried in PostgreSQL, summarized with Excel pivot tables, and presented in an interactive Power BI dashboard.
 
-![Dashboard](dashboard.png)
+![Dashbord](dashbord.png)
 
 ## Tools
 
